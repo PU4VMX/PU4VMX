@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **viniciusmrqs@outlook.com**
 
-- 📄 Know about my experiences [Infrastructure Coordinator, with experience in decision support software development, focused on solving problems through the construction of intelligent systems.](Infrastructure Coordinator, with experience in decision support software development, focused on solving problems through the construction of intelligent systems.)
+- 📄 Know about my experiences **Infrastructure Coordinator, with experience in decision support software development, focused on solving problems through the construction of intelligent systems.**
 
 - ⚡ Fun fact **I like to solve complex problems using creative solutions!**
 
