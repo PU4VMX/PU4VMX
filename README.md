@@ -10,7 +10,13 @@
 ---
 
 ## **RESUME**  
-Software Engineer with 5+ years of experience in SaaS development, specializing in **Java Spring Boot**, **Python Django**, and **Angular**. Strong expertise in solution architecture, cloud management (**AWS**, **Azure**), and multi-tenant systems. Proven ability to design scalable, cost-efficient solutions, with a focus on quality and innovation.  
+Software Engineer with over 5 years of experience in SaaS development, delivering innovative, scalable, and efficient solutions across multiple industries. Specialized in **Java Spring Boot**, **Python Django**, and **Angular**, with a deep understanding of backend and frontend integration. Skilled in **solution architecture**, **multi-tenant systems**, and **cloud management**, including hands-on expertise with **AWS** and **Azure** services.  
+
+Proven track record in designing cost-efficient systems, optimizing performance, and implementing robust security practices, including compliance with **LGPD** (General Data Protection Law). Experienced in building multi-tenant platforms with isolated databases and elastic scaling, ensuring reliability and client-specific customizations.  
+
+Adept at leading end-to-end software development projects, from requirements analysis to deployment and maintenance. Known for leveraging modern DevOps practices, such as **CI/CD pipelines**, **Docker**, and asynchronous task management with **Celery** and **RabbitMQ**, to deliver high-quality solutions on time.  
+
+Passionate about innovation, fostering collaborative environments, and driving continuous improvements to enhance product performance and client satisfaction.  
 
 ---
 
@@ -36,20 +42,23 @@ Software Engineer with 5+ years of experience in SaaS development, specializing 
 ## **TECHNICAL SKILLS**  
 
 **Programming & Databases**  
-- **Expert**: Python (Django, FastAPI, Flask), PostgreSQL, MySQL
-- **High Proficiency**: Java (SpringBoot Microservices, Junit), CassandraDB, MongoDB
+- **Expert**: Python (Django, FastAPI, Flask), Java (Spring Boot, ConfigServer, Eureka, Junit), Typescript, Javascript, PostgreSQL, Angular  
+- **High Proficiency**: C, C++, CassandraDB, MongoDB, MySQL  
 
 **Cloud & DevOps**  
 - **Expert**: Azure (VMs, ADFS, Blob Storage), Docker, GitHub Actions  
 - **High Proficiency**: AWS (SES, RDS, S3, Lambda, API Gateway, SQS, Bedrock)  
 
+
 **Architectures & Tools**  
-- **Expert**: Multi-tenant systems, Django-tenants, Power BI Embedded  
-- **High Proficiency**: Celery, RabbitMQ  
+- **Expert**: Microservices, Multi-tenant systems, Power BI Embedded  
+- **High Proficiency**: Celery, RabbitMQ, Redis, MQTT  
 
 **Other Skills**  
-- Testing: Unit & integration tests  
-- Financial expertise: Investment analysis, corporate finance, valuation  
+- Expertise in **Information Security** and compliance with **LGPD** (General Data Protection Law).  
+- Experience as **Data Protection Officer (DPO)**, implementing privacy strategies and managing data governance.  
+- Software testing: Unit & integration tests.  
+
 
 ---
 
@@ -80,6 +89,7 @@ Software Engineer with 5+ years of experience in SaaS development, specializing 
 - Leadership, problem-solving, and strategic planning  
 - Communication and teaching complex topics  
 - Adaptability and focus on quality development  
+
 
 
 <h3 align="left">Connect with me:</h3>
