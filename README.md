@@ -1,20 +1,85 @@
-<h1 align="center">Hi 👋, I'm Vinicius Silva</h1>
-<h3 align="center">Software Engineer</h3>
+# **Vinícius Marques Santos Silva**  
+### **Software Engineer**  
 
+## **CONTACT**  
+- **Email**: [viniciusmrqs@outlook.com](mailto:viniciusmrqs@outlook.com)  
+- **Phone**: (31) 9 9410-5368  
+- **LinkedIn**: [linkedin.com/in/vmrqs](https://www.linkedin.com/in/vmrqs/)  
+- **GitHub**: [github.com/PU4VMX](https://github.com/PU4VMX)  
 
-- 🔭 I’m currently working on [ERP Athon Consulting](https://erp.athonconsulting.com), [Marketplace Athon Consulting](https://marketplace.athonconsulting.com) and [PowerBI Embed](https://app.powerbiembed.com.br) 
+---
 
-- 🌱 I’m currently learning **Angular, PowerBI, GraphQL**
+## **RESUME**  
+Software Engineer with 5+ years of experience in SaaS development, specializing in **Java Spring Boot**, **Python Django**, and **Angular**. Strong expertise in solution architecture, cloud management (**AWS**, **Azure**), and multi-tenant systems. Proven ability to design scalable, cost-efficient solutions, with a focus on quality and innovation.  
 
-- 👯 I’m looking to collaborate on [TrustPay](https://github.com/PU4VMX/backend)
+---
 
-- 💬 Ask me about **Python, Django, Arduino**
+## **WORK EXPERIENCE**  
 
-- 📫 How to reach me **viniciusmrqs@outlook.com**
+### **Athon Consultoria LTDA**  
+**IT Infrastructure Coordinator** (Feb 2021 – Present)  
+- Developed and deployed an ERP system tailored to management consulting processes, using **Java Spring Boot**, **Python Django**, and **Angular**.  
+- Managed IT infrastructure across on-premises and cloud (**Azure**, **AWS**), ensuring scalability, privacy, and security.  
+- Streamlined business operations by implementing custom modules for client needs.  
 
-- 📄 Know about my experiences **Infrastructure Coordinator, with experience in decision support software development, focused on solving problems through the construction of intelligent systems.**
+### **PRS Tecnologia**  
+**Software Engineer** (Jan 2023 – Dec 2024)  
+- Led the architecture of the **Power BI Embedded SaaS platform**, achieving **87% cost savings** on licensing.  
+- Integrated secure **Microsoft API** authentication (Managed Identity) and a payment API for billing.  
+- Built a **multi-tenant architecture** with isolated database schemas for scalability and client customization.  
+- Optimized Power BI capacity usage by dynamically shutting down idle resources.  
+- Used **Celery** and **RabbitMQ** for task management, ensuring efficient asynchronous operations.  
+- Delivered stable operations for **15+ companies**, supporting **3,600 users** and **9,000+ monthly accesses**.  
 
-- ⚡ Fun fact **I like to solve complex problems using creative solutions!**
+---
+
+## **TECHNICAL SKILLS**  
+
+**Programming & Databases**  
+- **Expert**: Python (Django, FastAPI, Flask), PostgreSQL, MySQL
+- **High Proficiency**: Java (SpringBoot Microservices, Junit), CassandraDB, MongoDB
+
+**Cloud & DevOps**  
+- **Expert**: Azure (VMs, ADFS, Blob Storage), Docker, GitHub Actions  
+- **High Proficiency**: AWS (SES, RDS, S3, Lambda, API Gateway, SQS, Bedrock)  
+
+**Architectures & Tools**  
+- **Expert**: Multi-tenant systems, Django-tenants, Power BI Embedded  
+- **High Proficiency**: Celery, RabbitMQ  
+
+**Other Skills**  
+- Testing: Unit & integration tests  
+- Financial expertise: Investment analysis, corporate finance, valuation  
+
+---
+
+## **EDUCATION**  
+
+### **Academic Background**  
+- **Bachelor’s Degree in Information Systems** *(2022 – Ongoing)*  
+  Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG)  
+- **Bioprocess and Biotechnology Engineering** *(2018 – 2022, Incomplete)*  
+  Universidade Federal de São João Del Rei (UFSJ)  
+- **High School** *(2017)*  
+  IFMG  
+- **Professional Technical Course in Informatics** *(2010 – 2014)*  
+  - Linux & Windows Operating Systems, Software Development, Hardware Maintenance, Networking (Cabled & Wireless).  
+  - Institution: Compuway – Formação Profissional  
+
+### **Certifications**  
+- **Business Finance Course** *(2024, 20h)* – Athon Consulting  
+- **General Data Protection Law (LGPD)** *(2021, 40h)* – Fundação Bradesco  
+- **SQL Database Administration** *(2021, 40h)* – Fundação Bradesco  
+
+### **Achievements**  
+- **2x Hackathon Champion** *(2018 & 2019)* – QG da Inovação, Congonhas-MG  
+
+---
+
+## **SOFT SKILLS**  
+- Leadership, problem-solving, and strategic planning  
+- Communication and teaching complex topics  
+- Adaptability and focus on quality development  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,4 +99,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pu4vmx&show_icons=true&locale=en&layout=compact" alt="pu4vmx" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pu4vmx&show_icons=true&locale=en" alt="pu4vmx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pu4vmx&" alt="pu4vmx" /></p>
+
